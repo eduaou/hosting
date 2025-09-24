@@ -49,22 +49,37 @@
       "dateAdded": "2025-09-24T07:18:11.884Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5090953",
+      "taskLink": "https://unu.im/tasks/share/70c6496w-5090953",
+      "taskType": "wildberries",
+      "paymentRUB": 4,
+      "paymentUSD": 0.044,
+      "dateAdded": "2025-09-24T08:11:24.043Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-24T07:18:11.884Z",
-    "totalTasks": 5,
+    "lastUpdated": "2025-09-24T08:11:24.043Z",
+    "totalTasks": 6,
     "completedTasks": 1,
-    "totalRevenueRUB": 29.360000000000003,
-    "totalRevenueUSD": 0.32296,
+    "totalRevenueRUB": 33.36,
+    "totalRevenueUSD": 0.36696,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-24T07:18:11.884Z"
+    "exchangeRateLastUpdated": "2025-09-24T08:11:24.043Z"
   },
   "taskTypes": [
-    "Avito",
-    "Telegram",
     "VKontakte",
+    "Telegram",
+    "Twitter",
     "YouTube",
-    "Instagram"
+    "Rutube",
+    "Avito",
+    "Ozon",
+    "Music",
+    "wildberries",
+    "Other"
   ]
 }
