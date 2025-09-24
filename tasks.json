@@ -1,1 +1,30 @@
-{ }
+{
+  "tasks": [
+    {
+      "id": "4375193",
+      "taskLink": "https://unu.im/tasks/share/bghp7mk5-4375193",
+      "taskType": "Telegram",
+      "paymentRUB": 16,
+      "paymentUSD": 0.176,
+      "dateAdded": "2025-09-24T01:12:19.054Z",
+      "isCompleted": false,
+      "completedDate": null
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-09-24T01:12:19.054Z",
+    "totalTasks": 1,
+    "completedTasks": 0,
+    "totalRevenueRUB": 16,
+    "totalRevenueUSD": 0.176,
+    "exchangeRate": 0.011,
+    "exchangeRateLastUpdated": "2025-09-24T01:12:19.054Z"
+  },
+  "taskTypes": [
+    "Avito",
+    "Telegram",
+    "VKontakte",
+    "YouTube",
+    "Instagram"
+  ]
+}
