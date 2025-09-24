@@ -39,16 +39,26 @@
       "dateAdded": "2025-09-24T07:12:16.880Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5090382",
+      "taskLink": "https://unu.im/tasks/share/0tqrlhdt-5090382",
+      "taskType": "Ozon",
+      "paymentRUB": 4.8,
+      "paymentUSD": 0.05279999999999999,
+      "dateAdded": "2025-09-24T07:18:11.884Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-24T07:17:51.051Z",
-    "totalTasks": 4,
+    "lastUpdated": "2025-09-24T07:18:11.884Z",
+    "totalTasks": 5,
     "completedTasks": 1,
-    "totalRevenueRUB": 24.560000000000002,
-    "totalRevenueUSD": 0.27016,
+    "totalRevenueRUB": 29.360000000000003,
+    "totalRevenueUSD": 0.32296,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-24T07:17:51.051Z"
+    "exchangeRateLastUpdated": "2025-09-24T07:18:11.884Z"
   },
   "taskTypes": [
     "Avito",
