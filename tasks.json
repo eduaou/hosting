@@ -19,16 +19,26 @@
       "dateAdded": "2025-09-24T07:08:19.953Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5090390",
+      "taskLink": "https://unu.im/tasks/share/88prdji1-5090390",
+      "taskType": "Avito",
+      "paymentRUB": 1.6,
+      "paymentUSD": 0.0176,
+      "dateAdded": "2025-09-24T07:10:36.262Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-24T07:08:19.953Z",
-    "totalTasks": 2,
+    "lastUpdated": "2025-09-24T07:10:36.262Z",
+    "totalTasks": 3,
     "completedTasks": 1,
-    "totalRevenueRUB": 17.36,
-    "totalRevenueUSD": 0.19096,
+    "totalRevenueRUB": 18.96,
+    "totalRevenueUSD": 0.20856,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-24T07:08:19.954Z"
+    "exchangeRateLastUpdated": "2025-09-24T07:10:36.262Z"
   },
   "taskTypes": [
     "Avito",
