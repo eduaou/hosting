@@ -7,18 +7,18 @@
       "paymentRUB": 16,
       "paymentUSD": 0.176,
       "dateAdded": "2025-09-24T01:12:19.054Z",
-      "isCompleted": false,
-      "completedDate": null
+      "isCompleted": true,
+      "completedDate": "2025-09-24T01:14:21.184Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-24T01:12:19.054Z",
+    "lastUpdated": "2025-09-24T01:14:21.185Z",
     "totalTasks": 1,
-    "completedTasks": 0,
+    "completedTasks": 1,
     "totalRevenueRUB": 16,
     "totalRevenueUSD": 0.176,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-24T01:12:19.054Z"
+    "exchangeRateLastUpdated": "2025-09-24T01:14:21.185Z"
   },
   "taskTypes": [
     "Avito",
