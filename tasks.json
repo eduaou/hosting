@@ -39,16 +39,26 @@
       "dateAdded": "2025-09-25T17:05:23.392Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5090382",
+      "taskLink": "https://unu.im/tasks/share/0tqrlhdt-5090382",
+      "taskType": "Instagram",
+      "paymentRUB": 6,
+      "paymentUSD": 0.066,
+      "dateAdded": "2025-09-25T17:05:40.632Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-25T17:05:23.392Z",
-    "totalTasks": 4,
+    "lastUpdated": "2025-09-25T17:05:40.632Z",
+    "totalTasks": 5,
     "completedTasks": 0,
-    "totalRevenueRUB": 16,
-    "totalRevenueUSD": 0.176,
+    "totalRevenueRUB": 22,
+    "totalRevenueUSD": 0.242,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-25T17:05:23.392Z"
+    "exchangeRateLastUpdated": "2025-09-25T17:05:40.633Z"
   },
   "taskTypes": [
     "Avito",
