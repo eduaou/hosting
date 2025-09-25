@@ -27,8 +27,8 @@
       "paymentRUB": 2,
       "paymentUSD": 0.022,
       "dateAdded": "2025-09-25T17:04:19.662Z",
-      "isCompleted": false,
-      "completedDate": null
+      "isCompleted": true,
+      "completedDate": "2025-09-25T19:07:46.708Z"
     },
     {
       "id": "5090415",
@@ -62,13 +62,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-25T19:07:34.213Z",
+    "lastUpdated": "2025-09-25T19:07:46.708Z",
     "totalTasks": 6,
-    "completedTasks": 1,
+    "completedTasks": 2,
     "totalRevenueRUB": 25,
     "totalRevenueUSD": 0.275,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-25T19:07:34.214Z"
+    "exchangeRateLastUpdated": "2025-09-25T19:07:46.708Z"
   },
   "taskTypes": [
     "Avito",
