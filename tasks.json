@@ -29,16 +29,26 @@
       "dateAdded": "2025-09-25T17:04:19.662Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5090415",
+      "taskLink": "https://unu.im/tasks/share/anig9ejx-5090415",
+      "taskType": "YouTube",
+      "paymentRUB": 5,
+      "paymentUSD": 0.05499999999999999,
+      "dateAdded": "2025-09-25T17:05:23.392Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-25T17:04:19.662Z",
-    "totalTasks": 3,
+    "lastUpdated": "2025-09-25T17:05:23.392Z",
+    "totalTasks": 4,
     "completedTasks": 0,
-    "totalRevenueRUB": 11,
-    "totalRevenueUSD": 0.121,
+    "totalRevenueRUB": 16,
+    "totalRevenueUSD": 0.176,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-25T17:04:19.662Z"
+    "exchangeRateLastUpdated": "2025-09-25T17:05:23.392Z"
   },
   "taskTypes": [
     "Avito",
