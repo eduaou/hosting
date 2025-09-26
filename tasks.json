@@ -61,16 +61,6 @@
       "completedDate": null
     },
     {
-      "id": "5051895",
-      "taskLink": "https://unu.im/tasks/share/5wg65yup-5051895",
-      "taskType": "Music",
-      "paymentRUB": 5,
-      "paymentUSD": 0.05499999999999999,
-      "dateAdded": "2025-09-26T05:39:54.656Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "5090416",
       "taskLink": "https://unu.im/tasks/share/anig9ejx-5090416",
       "taskType": "Other",
@@ -82,13 +72,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-26T05:43:58.833Z",
-    "totalTasks": 8,
+    "lastUpdated": "2025-09-26T05:45:04.194Z",
+    "totalTasks": 7,
     "completedTasks": 0,
-    "totalRevenueRUB": 30,
-    "totalRevenueUSD": 0.32999999999999996,
+    "totalRevenueRUB": 25,
+    "totalRevenueUSD": 0.275,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-26T05:43:58.833Z"
+    "exchangeRateLastUpdated": "2025-09-26T05:45:04.194Z"
   },
   "taskTypes": [
     "VKontakte",
