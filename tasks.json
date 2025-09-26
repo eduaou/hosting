@@ -71,16 +71,6 @@
       "completedDate": null
     },
     {
-      "id": "4375194",
-      "taskLink": "https://unu.im/tasks/share/bghp7mk5-4375194",
-      "taskType": "wildberries",
-      "paymentRUB": 4,
-      "paymentUSD": 0.044,
-      "dateAdded": "2025-09-26T05:41:13.267Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "5090416",
       "taskLink": "https://unu.im/tasks/share/anig9ejx-5090416",
       "taskType": "Other",
@@ -92,13 +82,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-26T05:43:46.353Z",
-    "totalTasks": 9,
+    "lastUpdated": "2025-09-26T05:43:58.833Z",
+    "totalTasks": 8,
     "completedTasks": 0,
-    "totalRevenueRUB": 34,
-    "totalRevenueUSD": 0.374,
+    "totalRevenueRUB": 30,
+    "totalRevenueUSD": 0.32999999999999996,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-26T05:43:46.354Z"
+    "exchangeRateLastUpdated": "2025-09-26T05:43:58.833Z"
   },
   "taskTypes": [
     "VKontakte",
