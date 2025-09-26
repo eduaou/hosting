@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "id": "2447578",
-      "taskLink": "https://unu.im/tasks/share/8qlmcmgo-2447578",
-      "taskType": "Avito",
-      "paymentRUB": 4,
-      "paymentUSD": 0.044,
-      "dateAdded": "2025-09-25T17:03:47.511Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "4375193",
       "taskLink": "https://unu.im/tasks/share/bghp7mk5-4375193",
       "taskType": "VK",
@@ -32,13 +22,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-26T05:23:10.808Z",
-    "totalTasks": 3,
+    "lastUpdated": "2025-09-26T05:23:14.352Z",
+    "totalTasks": 2,
     "completedTasks": 2,
-    "totalRevenueRUB": 12,
-    "totalRevenueUSD": 0.132,
+    "totalRevenueRUB": 8,
+    "totalRevenueUSD": 0.088,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-26T05:23:10.808Z"
+    "exchangeRateLastUpdated": "2025-09-26T05:23:14.352Z"
   },
   "taskTypes": [
     "VKontakte",
