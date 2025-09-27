@@ -39,16 +39,26 @@
       "dateAdded": "2025-09-27T04:33:20.118Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5051898",
+      "taskLink": "https://unu.im/tasks/share/5wg65yup-5051898",
+      "taskType": "Telegram",
+      "paymentRUB": 4,
+      "paymentUSD": 0.044,
+      "dateAdded": "2025-09-27T04:34:02.607Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-27T04:33:20.119Z",
-    "totalTasks": 4,
+    "lastUpdated": "2025-09-27T04:34:02.607Z",
+    "totalTasks": 5,
     "completedTasks": 0,
-    "totalRevenueRUB": 13,
-    "totalRevenueUSD": 0.143,
+    "totalRevenueRUB": 17,
+    "totalRevenueUSD": 0.187,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-27T04:33:20.119Z"
+    "exchangeRateLastUpdated": "2025-09-27T04:34:02.607Z"
   },
   "taskTypes": [
     "Avito",
