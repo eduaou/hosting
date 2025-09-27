@@ -99,16 +99,26 @@
       "dateAdded": "2025-09-27T04:41:09.108Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "4375199",
+      "taskLink": "https://unu.im/tasks/share/bghp7mk5-4375199",
+      "taskType": "Other",
+      "paymentRUB": 12,
+      "paymentUSD": 0.132,
+      "dateAdded": "2025-09-27T10:42:24.936Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-27T04:41:09.109Z",
-    "totalTasks": 10,
+    "lastUpdated": "2025-09-27T10:42:24.937Z",
+    "totalTasks": 11,
     "completedTasks": 0,
-    "totalRevenueRUB": 37,
-    "totalRevenueUSD": 0.40700000000000003,
+    "totalRevenueRUB": 49,
+    "totalRevenueUSD": 0.539,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-27T04:41:09.109Z"
+    "exchangeRateLastUpdated": "2025-09-27T10:42:24.937Z"
   },
   "taskTypes": [
     "Avito",
