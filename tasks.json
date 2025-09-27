@@ -59,16 +59,26 @@
       "dateAdded": "2025-09-27T04:35:33.651Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5051813",
+      "taskLink": "https://unu.im/tasks/share/5wg65yup-5051813",
+      "taskType": "Rutube",
+      "paymentRUB": 3,
+      "paymentUSD": 0.033,
+      "dateAdded": "2025-09-27T04:36:56.789Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-09-27T04:35:33.651Z",
-    "totalTasks": 6,
+    "lastUpdated": "2025-09-27T04:36:56.790Z",
+    "totalTasks": 7,
     "completedTasks": 0,
-    "totalRevenueRUB": 22,
-    "totalRevenueUSD": 0.242,
+    "totalRevenueRUB": 25,
+    "totalRevenueUSD": 0.275,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-27T04:35:33.651Z"
+    "exchangeRateLastUpdated": "2025-09-27T04:36:56.790Z"
   },
   "taskTypes": [
     "Avito",
