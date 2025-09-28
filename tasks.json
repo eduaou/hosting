@@ -1,92 +1,19 @@
 {
-  "tasks": [
-    {
-      "id": "2447578",
-      "taskLink": "https://unu.im/tasks/share/8qlmcmgo-2447578",
-      "taskType": "VKontakte",
-      "paymentRUB": 3,
-      "paymentUSD": 0.033,
-      "dateAdded": "2025-09-28T09:16:30.789Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:16.238Z"
-    },
-    {
-      "id": "5051896",
-      "taskLink": "https://unu.im/tasks/share/5wg65yup-5051896",
-      "taskType": "Telegram",
-      "paymentRUB": 4,
-      "paymentUSD": 0.044,
-      "dateAdded": "2025-09-28T09:16:37.701Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:20.374Z"
-    },
-    {
-      "id": "4375193",
-      "taskLink": "https://unu.im/tasks/share/bghp7mk5-4375193",
-      "taskType": "YouTube",
-      "paymentRUB": 5,
-      "paymentUSD": 0.05499999999999999,
-      "dateAdded": "2025-09-28T09:16:44.133Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:29.799Z"
-    },
-    {
-      "id": "5090415",
-      "taskLink": "https://unu.im/tasks/share/anig9ejx-5090415",
-      "taskType": "Rutube",
-      "paymentRUB": 3,
-      "paymentUSD": 0.033,
-      "dateAdded": "2025-09-28T09:16:51.885Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:34.927Z"
-    },
-    {
-      "id": "5090382",
-      "taskLink": "https://unu.im/tasks/share/0tqrlhdt-5090382",
-      "taskType": "Avito",
-      "paymentRUB": 4,
-      "paymentUSD": 0.044,
-      "dateAdded": "2025-09-28T09:17:03.445Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:41.415Z"
-    },
-    {
-      "id": "5090953",
-      "taskLink": "https://unu.im/tasks/share/70c6496w-5090953",
-      "taskType": "Ozon",
-      "paymentRUB": 4,
-      "paymentUSD": 0.044,
-      "dateAdded": "2025-09-28T07:20:59.454Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:46.135Z"
-    },
-    {
-      "id": "2447575",
-      "taskLink": "https://unu.im/tasks/share/8qlmcmgo-2447575",
-      "taskType": "Other",
-      "paymentRUB": 3,
-      "paymentUSD": 0.033,
-      "dateAdded": "2025-09-28T07:21:09.758Z",
-      "isCompleted": true,
-      "completedDate": "2025-09-28T07:21:50.439Z"
-    }
-  ],
+  "tasks": [],
   "metadata": {
-    "lastUpdated": "2025-09-28T07:21:50.439Z",
-    "totalTasks": 7,
-    "completedTasks": 7,
-    "totalRevenueRUB": 26,
-    "totalRevenueUSD": 0.28600000000000003,
+    "lastUpdated": "2025-09-28T08:38:39.059Z",
+    "totalTasks": 0,
+    "completedTasks": 0,
+    "totalRevenueRUB": 0,
+    "totalRevenueUSD": 0,
     "exchangeRate": 0.011,
-    "exchangeRateLastUpdated": "2025-09-28T07:21:50.439Z"
+    "exchangeRateLastUpdated": "2025-09-28T08:38:39.059Z"
   },
   "taskTypes": [
-    "VKontakte",
-    "Telegram",
-    "YouTube",
-    "Rutube",
     "Avito",
-    "Ozon",
-    "Other"
+    "Telegram",
+    "VKontakte",
+    "YouTube",
+    "Instagram"
   ]
 }
