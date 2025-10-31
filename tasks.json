@@ -6,19 +6,19 @@
       "taskType": "Telegram",
       "paymentRUB": 3.6,
       "paymentUSD": 0.0432,
-      "dateAdded": "2025-10-31T05:18:06.838Z",
+      "dateAdded": "2025-10-31T05:18:43.621Z",
       "isCompleted": false,
       "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-31T05:18:06.840Z",
+    "lastUpdated": "2025-10-31T05:18:43.621Z",
     "totalTasks": 1,
     "completedTasks": 0,
     "totalRevenueRUB": 3.6,
     "totalRevenueUSD": 0.0432,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-10-31T05:18:06.840Z"
+    "exchangeRateLastUpdated": "2025-10-31T05:18:43.621Z"
   },
   "taskTypes": [
     "VKontakte",
