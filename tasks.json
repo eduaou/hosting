@@ -150,16 +150,26 @@
       "dateAdded": "2025-10-31T05:28:48.149Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5501884",
+      "taskLink": "https://unu.im/tasks/share/gcack70k-5501884",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-10-31T05:52:53.848Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-31T05:32:31.020Z",
-    "totalTasks": 15,
+    "lastUpdated": "2025-10-31T05:52:53.849Z",
+    "totalTasks": 16,
     "completedTasks": 1,
-    "totalRevenueRUB": 25.12,
-    "totalRevenueUSD": 0.30144000000000004,
+    "totalRevenueRUB": 26.400000000000002,
+    "totalRevenueUSD": 0.3168,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-10-31T05:32:31.020Z"
+    "exchangeRateLastUpdated": "2025-10-31T05:52:53.849Z"
   },
   "taskTypes": [
     "VKontakte",
