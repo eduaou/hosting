@@ -59,16 +59,26 @@
       "dateAdded": "2025-10-31T05:23:28.189Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5509319",
+      "taskLink": "https://unu.im/tasks/share/orrap10f-5509319",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-10-31T05:23:50.907Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-31T05:23:28.189Z",
-    "totalTasks": 6,
+    "lastUpdated": "2025-10-31T05:23:50.908Z",
+    "totalTasks": 7,
     "completedTasks": 0,
-    "totalRevenueRUB": 12.239999999999998,
-    "totalRevenueUSD": 0.14688,
+    "totalRevenueRUB": 13.519999999999998,
+    "totalRevenueUSD": 0.16224000000000002,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-10-31T05:23:28.189Z"
+    "exchangeRateLastUpdated": "2025-10-31T05:23:50.908Z"
   },
   "taskTypes": [
     "VKontakte",
