@@ -99,16 +99,6 @@
       "id2": "#145003501"
     },
     {
-      "id": "5519786",
-      "taskLink": "https://unu.im/tasks/share/qq3ipbv5-5519786",
-      "taskType": "Other",
-      "paymentRUB": 1.12,
-      "paymentUSD": 0.013440000000000002,
-      "dateAdded": "2025-11-01T07:56:25.264Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "5434449",
       "taskLink": "https://unu.im/tasks/share/r50m9cal-5434449",
       "taskType": "VKontakte",
@@ -431,13 +421,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-01T11:32:06.573Z",
-    "totalTasks": 42,
+    "lastUpdated": "2025-11-01T11:33:05.918Z",
+    "totalTasks": 41,
     "completedTasks": 9,
-    "totalRevenueRUB": 99.92000000000002,
-    "totalRevenueUSD": 1.1990400000000008,
+    "totalRevenueRUB": 98.80000000000001,
+    "totalRevenueUSD": 1.1856000000000007,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-01T11:32:06.573Z"
+    "exchangeRateLastUpdated": "2025-11-01T11:33:05.918Z"
   },
   "taskTypes": [
     "VKontakte",
