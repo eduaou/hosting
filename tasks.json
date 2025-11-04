@@ -562,16 +562,6 @@
       "id2": "#145065911"
     },
     {
-      "id": "2447533",
-      "taskLink": "https://unu.im/tasks/share/8qlmcmgo-2447533",
-      "taskType": "YouTube",
-      "paymentRUB": 4,
-      "paymentUSD": 0.048,
-      "dateAdded": "2025-11-04T09:53:18.069Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "5051893",
       "taskLink": "https://unu.im/tasks/share/5wg65yup-5051893",
       "taskType": "YouTube",
@@ -613,13 +603,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-04T09:55:17.095Z",
-    "totalTasks": 56,
+    "lastUpdated": "2025-11-04T09:58:55.025Z",
+    "totalTasks": 55,
     "completedTasks": 51,
-    "totalRevenueRUB": 124.52000000000002,
-    "totalRevenueUSD": 1.494240000000001,
+    "totalRevenueRUB": 120.52000000000002,
+    "totalRevenueUSD": 1.4462400000000009,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-04T09:55:17.095Z"
+    "exchangeRateLastUpdated": "2025-11-04T09:58:55.025Z"
   },
   "taskTypes": [
     "VKontakte",
