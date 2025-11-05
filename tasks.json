@@ -620,16 +620,26 @@
       "dateAdded": "2025-11-05T13:21:38.513Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5535025",
+      "taskLink": "https://unu.im/tasks/share/htxhbeam-5535025",
+      "taskType": "VKontakte",
+      "paymentRUB": 0.8,
+      "paymentUSD": 0.009600000000000001,
+      "dateAdded": "2025-11-05T13:23:28.999Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-05T13:21:38.514Z",
-    "totalTasks": 57,
+    "lastUpdated": "2025-11-05T13:23:29.001Z",
+    "totalTasks": 58,
     "completedTasks": 51,
-    "totalRevenueRUB": 130.64000000000001,
-    "totalRevenueUSD": 1.5676800000000009,
+    "totalRevenueRUB": 131.44000000000003,
+    "totalRevenueUSD": 1.577280000000001,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-05T13:21:38.514Z"
+    "exchangeRateLastUpdated": "2025-11-05T13:23:29.001Z"
   },
   "taskTypes": [
     "VKontakte",
