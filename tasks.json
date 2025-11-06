@@ -600,16 +600,26 @@
       "dateAdded": "2025-11-06T10:19:45.216Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "841953",
+      "taskLink": "https://unu.im/tasks/share/hoeod8l4-841953",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-11-06T10:20:21.548Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-06T10:19:45.217Z",
-    "totalTasks": 55,
+    "lastUpdated": "2025-11-06T10:20:21.548Z",
+    "totalTasks": 56,
     "completedTasks": 51,
-    "totalRevenueRUB": 118.64000000000003,
-    "totalRevenueUSD": 1.4236800000000007,
+    "totalRevenueRUB": 119.92000000000003,
+    "totalRevenueUSD": 1.4390400000000008,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-06T10:19:45.217Z"
+    "exchangeRateLastUpdated": "2025-11-06T10:20:21.548Z"
   },
   "taskTypes": [
     "VKontakte",
