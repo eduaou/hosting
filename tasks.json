@@ -621,27 +621,16 @@
       "dateAdded": "2025-11-08T13:37:35.555Z",
       "isCompleted": false,
       "completedDate": null
-    },
-    {
-      "id": "5533622",
-      "taskLink": "https://unu.im/tasks/share/ml6gdvhm-5533622",
-      "taskType": "YouTube",
-      "paymentRUB": 2.16,
-      "paymentUSD": 0.025920000000000002,
-      "dateAdded": "2025-11-08T13:45:07.267Z",
-      "isCompleted": true,
-      "completedDate": "2025-11-08T13:46:26.491Z",
-      "id2": "#145984296"
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-08T13:46:26.491Z",
-    "totalTasks": 58,
-    "completedTasks": 53,
-    "totalRevenueRUB": 132,
-    "totalRevenueUSD": 1.5840000000000005,
+    "lastUpdated": "2025-11-08T13:46:55.445Z",
+    "totalTasks": 57,
+    "completedTasks": 52,
+    "totalRevenueRUB": 129.84,
+    "totalRevenueUSD": 1.5580800000000006,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-08T13:46:26.491Z"
+    "exchangeRateLastUpdated": "2025-11-08T13:46:55.445Z"
   },
   "taskTypes": [
     "VKontakte",
