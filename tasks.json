@@ -562,66 +562,6 @@
       "id2": "#145065911"
     },
     {
-      "id": "5540128",
-      "taskLink": "https://unu.im/tasks/share/xk823ldh-5540128",
-      "taskType": "YouTube",
-      "paymentRUB": 1.2,
-      "paymentUSD": 0.0144,
-      "dateAdded": "2025-11-06T10:17:23.745Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5547768",
-      "taskLink": "https://unu.im/tasks/share/rh8zyf6s-5547768",
-      "taskType": "YouTube",
-      "paymentRUB": 1.2,
-      "paymentUSD": 0.0144,
-      "dateAdded": "2025-11-06T10:18:46.300Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "1454995",
-      "taskLink": "https://unu.im/tasks/share/akk1bffm-1454995",
-      "taskType": "VKontakte",
-      "paymentRUB": 2.08,
-      "paymentUSD": 0.024960000000000003,
-      "dateAdded": "2025-11-06T10:19:45.216Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "841953",
-      "taskLink": "https://unu.im/tasks/share/hoeod8l4-841953",
-      "taskType": "VKontakte",
-      "paymentRUB": 1.28,
-      "paymentUSD": 0.01536,
-      "dateAdded": "2025-11-06T10:20:21.548Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5402044",
-      "taskLink": "https://unu.im/tasks/share/wtfbot0p-5402044",
-      "taskType": "Avito",
-      "paymentRUB": 6.4,
-      "paymentUSD": 0.07680000000000001,
-      "dateAdded": "2025-11-06T10:20:58.906Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5373152",
-      "taskLink": "https://unu.im/tasks/share/jy8xvjrp-5373152",
-      "taskType": "Avito",
-      "paymentRUB": 6.4,
-      "paymentUSD": 0.07680000000000001,
-      "dateAdded": "2025-11-06T10:21:26.025Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "5543418",
       "taskLink": "https://unu.im/tasks/share/f4uvk7sh-5543418",
       "taskType": "Other",
@@ -634,13 +574,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-06T10:44:58.328Z",
-    "totalTasks": 58,
+    "lastUpdated": "2025-11-08T13:14:10.775Z",
+    "totalTasks": 52,
     "completedTasks": 52,
-    "totalRevenueRUB": 132.80000000000004,
-    "totalRevenueUSD": 1.5936000000000008,
+    "totalRevenueRUB": 114.24000000000002,
+    "totalRevenueUSD": 1.3708800000000008,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-06T10:44:58.329Z"
+    "exchangeRateLastUpdated": "2025-11-08T13:14:10.775Z"
   },
   "taskTypes": [
     "VKontakte",
