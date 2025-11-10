@@ -571,66 +571,16 @@
       "isCompleted": true,
       "completedDate": "2025-11-06T10:44:58.328Z",
       "id2": "#145670679"
-    },
-    {
-      "id": "5533721",
-      "taskLink": "https://unu.im/tasks/share/9c5735sh-5533721",
-      "taskType": "YouTube",
-      "paymentRUB": 2.16,
-      "paymentUSD": 0.025920000000000002,
-      "dateAdded": "2025-11-08T13:27:13.303Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5041678",
-      "taskLink": "https://unu.im/tasks/share/3byzepui-5041678",
-      "taskType": "Telegram",
-      "paymentRUB": 3.6,
-      "paymentUSD": 0.0432,
-      "dateAdded": "2025-11-08T13:28:47.962Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5041512",
-      "taskLink": "https://unu.im/tasks/share/o52fv8fl-5041512",
-      "taskType": "Telegram",
-      "paymentRUB": 3.6,
-      "paymentUSD": 0.0432,
-      "dateAdded": "2025-11-08T13:29:18.547Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5240283",
-      "taskLink": "https://unu.im/tasks/share/311jp3q9-5240283",
-      "taskType": "Avito",
-      "paymentRUB": 4,
-      "paymentUSD": 0.048,
-      "dateAdded": "2025-11-08T13:29:56.331Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5549003",
-      "taskLink": "https://unu.im/tasks/share/e3kkggvi-5549003",
-      "taskType": "YouTube",
-      "paymentRUB": 2.24,
-      "paymentUSD": 0.026880000000000005,
-      "dateAdded": "2025-11-08T13:37:35.555Z",
-      "isCompleted": false,
-      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-08T13:46:55.445Z",
-    "totalTasks": 57,
+    "lastUpdated": "2025-11-10T06:24:22.566Z",
+    "totalTasks": 52,
     "completedTasks": 52,
-    "totalRevenueRUB": 129.84,
-    "totalRevenueUSD": 1.5580800000000006,
+    "totalRevenueRUB": 114.24000000000002,
+    "totalRevenueUSD": 1.3708800000000008,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-08T13:46:55.445Z"
+    "exchangeRateLastUpdated": "2025-11-10T06:24:22.568Z"
   },
   "taskTypes": [
     "VKontakte",
