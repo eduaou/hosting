@@ -816,16 +816,26 @@
       "dateAdded": "2025-11-13T17:47:04.930Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5589657",
+      "taskLink": "https://unu.im/tasks/share/rnglabnt-5589657",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.2,
+      "paymentUSD": 0.0144,
+      "dateAdded": "2025-11-13T17:47:54.507Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-13T17:47:04.930Z",
-    "totalTasks": 75,
+    "lastUpdated": "2025-11-13T17:47:54.507Z",
+    "totalTasks": 76,
     "completedTasks": 67,
-    "totalRevenueRUB": 152,
-    "totalRevenueUSD": 1.8240000000000012,
+    "totalRevenueRUB": 153.2,
+    "totalRevenueUSD": 1.8384000000000011,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-13T17:47:04.931Z"
+    "exchangeRateLastUpdated": "2025-11-13T17:47:54.507Z"
   },
   "taskTypes": [
     "VKontakte",
