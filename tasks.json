@@ -673,16 +673,6 @@
       "completedDate": null
     },
     {
-      "id": "1276765",
-      "taskLink": "https://unu.im/tasks/share/9o95rg65-1276765",
-      "taskType": "Rutube",
-      "paymentRUB": 1.28,
-      "paymentUSD": 0.01536,
-      "dateAdded": "2025-11-12T17:20:46.748Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "5586809",
       "taskLink": "https://unu.im/tasks/share/0i619ieu-5586809",
       "taskType": "Telegram",
@@ -874,13 +864,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-12T17:47:16.587Z",
-    "totalTasks": 82,
+    "lastUpdated": "2025-11-13T11:05:37.415Z",
+    "totalTasks": 81,
     "completedTasks": 52,
-    "totalRevenueRUB": 203.44000000000008,
-    "totalRevenueUSD": 2.4412800000000003,
+    "totalRevenueRUB": 202.16000000000008,
+    "totalRevenueUSD": 2.42592,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-12T17:47:16.587Z"
+    "exchangeRateLastUpdated": "2025-11-13T11:05:37.415Z"
   },
   "taskTypes": [
     "VKontakte",
