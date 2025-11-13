@@ -821,16 +821,26 @@
       "dateAdded": "2025-11-12T17:41:44.593Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5581602",
+      "taskLink": "https://unu.im/tasks/share/dpnbukzd-5581602",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-11-12T17:42:45.282Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-12T17:41:44.602Z",
-    "totalTasks": 77,
+    "lastUpdated": "2025-11-12T17:42:45.283Z",
+    "totalTasks": 78,
     "completedTasks": 52,
-    "totalRevenueRUB": 197.04000000000008,
-    "totalRevenueUSD": 2.3644800000000012,
+    "totalRevenueRUB": 198.32000000000008,
+    "totalRevenueUSD": 2.379840000000001,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-12T17:41:44.603Z"
+    "exchangeRateLastUpdated": "2025-11-12T17:42:45.283Z"
   },
   "taskTypes": [
     "VKontakte",
