@@ -1110,16 +1110,26 @@
       "dateAdded": "2025-11-14T18:08:29.810Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5592091",
+      "taskLink": "https://unu.im/tasks/share/cdppxe1s-5592091",
+      "taskType": "Other",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-11-14T18:10:43.835Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-14T18:08:29.811Z",
-    "totalTasks": 102,
+    "lastUpdated": "2025-11-14T18:10:43.837Z",
+    "totalTasks": 103,
     "completedTasks": 91,
-    "totalRevenueRUB": 196.40000000000003,
-    "totalRevenueUSD": 2.3567999999999993,
+    "totalRevenueRUB": 197.68000000000004,
+    "totalRevenueUSD": 2.372159999999999,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-14T18:08:29.811Z"
+    "exchangeRateLastUpdated": "2025-11-14T18:10:43.837Z"
   },
   "taskTypes": [
     "VKontakte",
