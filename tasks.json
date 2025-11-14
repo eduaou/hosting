@@ -1000,16 +1000,26 @@
       "isCompleted": true,
       "completedDate": "2025-11-13T18:33:12.065Z",
       "id2": "#146739622"
+    },
+    {
+      "id": "5596268",
+      "taskLink": "https://unu.im/tasks/share/ymizferf-5596268",
+      "taskType": "Rutube",
+      "paymentRUB": 3.44,
+      "paymentUSD": 0.04128,
+      "dateAdded": "2025-11-14T17:55:32.943Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-13T21:12:19.892Z",
-    "totalTasks": 91,
+    "lastUpdated": "2025-11-14T17:55:32.945Z",
+    "totalTasks": 92,
     "completedTasks": 91,
-    "totalRevenueRUB": 175.6,
-    "totalRevenueUSD": 2.1072,
+    "totalRevenueRUB": 179.04,
+    "totalRevenueUSD": 2.14848,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-13T21:12:19.892Z"
+    "exchangeRateLastUpdated": "2025-11-14T17:55:32.945Z"
   },
   "taskTypes": [
     "VKontakte",
