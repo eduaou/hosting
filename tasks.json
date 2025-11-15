@@ -1304,16 +1304,26 @@
       "dateAdded": "2025-11-15T16:07:54.597Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5143879",
+      "taskLink": "https://unu.im/tasks/share/wifozkek-5143879",
+      "taskType": "Avito",
+      "paymentRUB": 4.8,
+      "paymentUSD": 0.0576,
+      "dateAdded": "2025-11-15T16:10:37.889Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-15T16:07:54.598Z",
-    "totalTasks": 119,
+    "lastUpdated": "2025-11-15T16:10:37.891Z",
+    "totalTasks": 120,
     "completedTasks": 115,
-    "totalRevenueRUB": 242.0800000000001,
-    "totalRevenueUSD": 2.9049599999999978,
+    "totalRevenueRUB": 246.8800000000001,
+    "totalRevenueUSD": 2.9625599999999976,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-15T16:07:54.598Z"
+    "exchangeRateLastUpdated": "2025-11-15T16:10:37.892Z"
   },
   "taskTypes": [
     "VKontakte",
