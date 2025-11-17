@@ -1940,16 +1940,26 @@
       "dateAdded": "2025-11-17T23:11:30.837Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "1103340",
+      "taskLink": "https://unu.im/tasks/share/fii83ktd-1103340",
+      "taskType": "Other",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-11-17T23:12:37.040Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-17T23:11:30.838Z",
-    "totalTasks": 179,
+    "lastUpdated": "2025-11-17T23:12:37.042Z",
+    "totalTasks": 180,
     "completedTasks": 151,
-    "totalRevenueRUB": 365.99999999999966,
-    "totalRevenueUSD": 4.391999999999994,
+    "totalRevenueRUB": 367.27999999999963,
+    "totalRevenueUSD": 4.407359999999994,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-17T23:11:30.838Z"
+    "exchangeRateLastUpdated": "2025-11-17T23:12:37.042Z"
   },
   "taskTypes": [
     "VKontakte",
