@@ -1860,16 +1860,26 @@
       "dateAdded": "2025-11-17T22:58:31.472Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "2541923",
+      "taskLink": "https://unu.im/tasks/share/phiip24f-2541923",
+      "taskType": "Rutube",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-11-17T23:01:33.604Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-17T22:58:31.473Z",
-    "totalTasks": 171,
+    "lastUpdated": "2025-11-17T23:01:33.607Z",
+    "totalTasks": 172,
     "completedTasks": 151,
-    "totalRevenueRUB": 346.95999999999975,
-    "totalRevenueUSD": 4.163519999999993,
+    "totalRevenueRUB": 348.2399999999997,
+    "totalRevenueUSD": 4.178879999999993,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-17T22:58:31.473Z"
+    "exchangeRateLastUpdated": "2025-11-17T23:01:33.608Z"
   },
   "taskTypes": [
     "VKontakte",
