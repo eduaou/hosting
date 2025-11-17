@@ -1690,16 +1690,26 @@
       "dateAdded": "2025-11-17T22:12:39.778Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5610824",
+      "taskLink": "https://unu.im/tasks/share/osxvmbwt-5610824",
+      "taskType": "Rutube",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2025-11-17T22:13:48.307Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-17T22:12:39.779Z",
-    "totalTasks": 154,
+    "lastUpdated": "2025-11-17T22:13:48.307Z",
+    "totalTasks": 155,
     "completedTasks": 151,
-    "totalRevenueRUB": 301.19999999999993,
-    "totalRevenueUSD": 3.614399999999993,
+    "totalRevenueRUB": 302.4799999999999,
+    "totalRevenueUSD": 3.629759999999993,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-17T22:12:39.779Z"
+    "exchangeRateLastUpdated": "2025-11-17T22:13:48.308Z"
   },
   "taskTypes": [
     "VKontakte",
