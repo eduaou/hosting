@@ -2212,16 +2212,26 @@
       "dateAdded": "2025-11-20T21:19:36.733Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "4931871",
+      "taskLink": "https://unu.im/tasks/share/flybuwof-4931871",
+      "taskType": "Telegram",
+      "paymentRUB": 2.4,
+      "paymentUSD": 0.0288,
+      "dateAdded": "2025-11-20T21:20:55.552Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-20T21:19:36.734Z",
-    "totalTasks": 204,
+    "lastUpdated": "2025-11-20T21:20:55.553Z",
+    "totalTasks": 205,
     "completedTasks": 173,
-    "totalRevenueRUB": 405.75999999999954,
-    "totalRevenueUSD": 4.869119999999996,
+    "totalRevenueRUB": 408.1599999999995,
+    "totalRevenueUSD": 4.8979199999999965,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-20T21:19:36.734Z"
+    "exchangeRateLastUpdated": "2025-11-20T21:20:55.561Z"
   },
   "taskTypes": [
     "VKontakte",
