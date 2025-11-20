@@ -1992,16 +1992,26 @@
       "dateAdded": "2025-11-20T20:39:44.862Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5626549",
+      "taskLink": "https://unu.im/tasks/share/kblscnif-5626549",
+      "taskType": "Rutube",
+      "paymentRUB": 0.8,
+      "paymentUSD": 0.009600000000000001,
+      "dateAdded": "2025-11-20T20:40:25.861Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-20T20:39:44.862Z",
-    "totalTasks": 182,
+    "lastUpdated": "2025-11-20T20:40:25.862Z",
+    "totalTasks": 183,
     "completedTasks": 173,
-    "totalRevenueRUB": 364.31999999999965,
-    "totalRevenueUSD": 4.371839999999994,
+    "totalRevenueRUB": 365.11999999999966,
+    "totalRevenueUSD": 4.381439999999994,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2025-11-20T20:39:44.863Z"
+    "exchangeRateLastUpdated": "2025-11-20T20:40:25.862Z"
   },
   "taskTypes": [
     "VKontakte",
