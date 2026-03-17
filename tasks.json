@@ -2760,16 +2760,26 @@
       "dateAdded": "2026-03-17T00:35:18.729Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6206083",
+      "taskLink": "https://unu.im/tasks/share/gcs52lty-6206083",
+      "taskType": "VKontakte",
+      "paymentRUB": 3.2,
+      "paymentUSD": 0.038400000000000004,
+      "dateAdded": "2026-03-17T00:36:15.779Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-17T00:35:18.730Z",
-    "totalTasks": 253,
+    "lastUpdated": "2026-03-17T00:36:15.782Z",
+    "totalTasks": 254,
     "completedTasks": 231,
-    "totalRevenueRUB": 497.8399999999988,
-    "totalRevenueUSD": 5.974080000000003,
+    "totalRevenueRUB": 501.03999999999877,
+    "totalRevenueUSD": 6.012480000000004,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-17T00:35:18.731Z"
+    "exchangeRateLastUpdated": "2026-03-17T00:36:15.783Z"
   },
   "taskTypes": [
     "VKontakte",
