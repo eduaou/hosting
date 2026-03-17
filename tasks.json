@@ -2800,16 +2800,26 @@
       "dateAdded": "2026-03-17T00:44:11.099Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "5734507",
+      "taskLink": "https://unu.im/tasks/share/exjbbeem-5734507",
+      "taskType": "Other",
+      "paymentRUB": 3.6,
+      "paymentUSD": 0.0432,
+      "dateAdded": "2026-03-17T00:50:04.053Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-17T00:44:11.105Z",
-    "totalTasks": 257,
+    "lastUpdated": "2026-03-17T00:50:04.059Z",
+    "totalTasks": 258,
     "completedTasks": 231,
-    "totalRevenueRUB": 507.19999999999874,
-    "totalRevenueUSD": 6.086400000000004,
+    "totalRevenueRUB": 510.79999999999876,
+    "totalRevenueUSD": 6.1296000000000035,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-17T00:44:11.106Z"
+    "exchangeRateLastUpdated": "2026-03-17T00:50:04.060Z"
   },
   "taskTypes": [
     "VKontakte",
