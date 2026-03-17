@@ -2421,46 +2421,6 @@
       "id2": "#167373219"
     },
     {
-      "id": "5905406",
-      "taskLink": "https://unu.im/tasks/share/kavr8eqh-5905406",
-      "taskType": "Ozon",
-      "paymentRUB": 6.4,
-      "paymentUSD": 0.07680000000000001,
-      "dateAdded": "2026-03-15T04:06:07.656Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5905491",
-      "taskLink": "https://unu.im/tasks/share/7l95c80i-5905491",
-      "taskType": "Ozon",
-      "paymentRUB": 6.4,
-      "paymentUSD": 0.07680000000000001,
-      "dateAdded": "2026-03-15T04:06:36.405Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "5941950",
-      "taskLink": "https://unu.im/tasks/share/mdmwpzt8-5941950",
-      "taskType": "Ozon",
-      "paymentRUB": 5.6,
-      "paymentUSD": 0.0672,
-      "dateAdded": "2026-03-15T04:07:05.667Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "6093433",
-      "taskLink": "https://unu.im/tasks/share/guuwsndv-6093433",
-      "taskType": "Ozon",
-      "paymentRUB": 5.6,
-      "paymentUSD": 0.0672,
-      "dateAdded": "2026-03-15T04:07:33.174Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "6253736",
       "taskLink": "https://unu.im/tasks/share/wkzv9u91-6253736",
       "taskType": "Other",
@@ -2572,13 +2532,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-16T01:35:20.022Z",
-    "totalTasks": 234,
+    "lastUpdated": "2026-03-17T00:03:23.172Z",
+    "totalTasks": 230,
     "completedTasks": 230,
-    "totalRevenueRUB": 468.47999999999917,
-    "totalRevenueUSD": 5.62176,
+    "totalRevenueRUB": 444.47999999999917,
+    "totalRevenueUSD": 5.33376,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-16T01:35:20.022Z"
+    "exchangeRateLastUpdated": "2026-03-17T00:03:23.174Z"
   },
   "taskTypes": [
     "VKontakte",
