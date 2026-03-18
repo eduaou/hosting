@@ -2740,16 +2740,26 @@
       "dateAdded": "2026-03-18T03:27:50.042Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6268543",
+      "taskLink": "https://unu.im/tasks/share/awplmyty-6268543",
+      "taskType": "Other",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-03-18T03:28:50.492Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-18T03:27:50.046Z",
-    "totalTasks": 250,
+    "lastUpdated": "2026-03-18T03:28:50.493Z",
+    "totalTasks": 251,
     "completedTasks": 241,
-    "totalRevenueRUB": 473.3599999999989,
-    "totalRevenueUSD": 5.680320000000002,
+    "totalRevenueRUB": 474.63999999999885,
+    "totalRevenueUSD": 5.695680000000002,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-18T03:27:50.047Z"
+    "exchangeRateLastUpdated": "2026-03-18T03:28:50.494Z"
   },
   "taskTypes": [
     "VKontakte",
