@@ -2926,16 +2926,26 @@
       "dateAdded": "2026-03-21T00:22:38.594Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6287365",
+      "taskLink": "https://unu.im/tasks/share/gesyub2o-6287365",
+      "taskType": "Other",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-03-21T00:23:31.884Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-21T00:22:38.596Z",
-    "totalTasks": 267,
+    "lastUpdated": "2026-03-21T00:23:31.887Z",
+    "totalTasks": 268,
     "completedTasks": 257,
-    "totalRevenueRUB": 497.1999999999987,
-    "totalRevenueUSD": 5.966400000000004,
+    "totalRevenueRUB": 498.47999999999865,
+    "totalRevenueUSD": 5.981760000000004,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-21T00:22:38.597Z"
+    "exchangeRateLastUpdated": "2026-03-21T00:23:31.888Z"
   },
   "taskTypes": [
     "VKontakte",
