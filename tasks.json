@@ -2940,8 +2940,9 @@
       "paymentRUB": 2.08,
       "paymentUSD": 0.024960000000000003,
       "dateAdded": "2026-03-21T00:26:01.120Z",
-      "isCompleted": false,
-      "completedDate": null
+      "isCompleted": true,
+      "completedDate": "2026-03-21T01:20:38.692Z",
+      "id2": "#168505700"
     },
     {
       "id": "6284284",
@@ -3095,13 +3096,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-21T01:16:51.173Z",
+    "lastUpdated": "2026-03-21T01:20:38.692Z",
     "totalTasks": 283,
-    "completedTasks": 263,
+    "completedTasks": 264,
     "totalRevenueRUB": 528.6399999999985,
     "totalRevenueUSD": 6.343680000000006,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-21T01:16:51.174Z"
+    "exchangeRateLastUpdated": "2026-03-21T01:20:38.693Z"
   },
   "taskTypes": [
     "VKontakte",
