@@ -3391,16 +3391,26 @@
       "dateAdded": "2026-03-27T13:35:57.877Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6256257",
+      "taskLink": "https://unu.im/tasks/share/gelkbriv-6256257",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-03-27T13:36:40.438Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-27T13:35:57.877Z",
-    "totalTasks": 310,
+    "lastUpdated": "2026-03-27T13:36:40.440Z",
+    "totalTasks": 311,
     "completedTasks": 292,
-    "totalRevenueRUB": 589.6799999999985,
-    "totalRevenueUSD": 7.0761600000000096,
+    "totalRevenueRUB": 590.9599999999984,
+    "totalRevenueUSD": 7.09152000000001,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-27T13:35:57.878Z"
+    "exchangeRateLastUpdated": "2026-03-27T13:36:40.442Z"
   },
   "taskTypes": [
     "VKontakte",
