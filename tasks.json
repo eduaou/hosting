@@ -3311,16 +3311,26 @@
       "dateAdded": "2026-03-27T13:18:24.756Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6324980",
+      "taskLink": "https://unu.im/tasks/share/gidoda5o-6324980",
+      "taskType": "Other",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-03-27T13:18:57.991Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-27T13:18:24.758Z",
-    "totalTasks": 302,
+    "lastUpdated": "2026-03-27T13:18:57.992Z",
+    "totalTasks": 303,
     "completedTasks": 292,
-    "totalRevenueRUB": 578.2399999999986,
-    "totalRevenueUSD": 6.938880000000008,
+    "totalRevenueRUB": 579.5199999999986,
+    "totalRevenueUSD": 6.954240000000008,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-27T13:18:24.759Z"
+    "exchangeRateLastUpdated": "2026-03-27T13:18:58.008Z"
   },
   "taskTypes": [
     "VKontakte",
