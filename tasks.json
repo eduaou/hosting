@@ -3268,16 +3268,6 @@
       "id2": "#169703138"
     },
     {
-      "id": "6093433",
-      "taskLink": "https://unu.im/tasks/share/guuwsndv-6093433",
-      "taskType": "Ozon",
-      "paymentRUB": 5.6,
-      "paymentUSD": 0.0672,
-      "dateAdded": "2026-03-27T13:09:49.078Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "6317112",
       "taskLink": "https://unu.im/tasks/share/aqvnuax1-6317112",
       "taskType": "Telegram",
@@ -3411,13 +3401,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-28T11:01:07.507Z",
-    "totalTasks": 310,
+    "lastUpdated": "2026-03-28T11:01:25.707Z",
+    "totalTasks": 309,
     "completedTasks": 309,
-    "totalRevenueRUB": 585.0399999999984,
-    "totalRevenueUSD": 7.020480000000011,
+    "totalRevenueRUB": 579.4399999999983,
+    "totalRevenueUSD": 6.953280000000011,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-03-28T11:01:07.508Z"
+    "exchangeRateLastUpdated": "2026-03-28T11:01:25.708Z"
   },
   "taskTypes": [
     "VKontakte",
