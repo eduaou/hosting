@@ -3844,16 +3844,26 @@
       "dateAdded": "2026-04-28T02:44:33.014Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6487012",
+      "taskLink": "https://unu.im/tasks/share/gktntar2-6487012",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.2,
+      "paymentUSD": 0.0144,
+      "dateAdded": "2026-04-28T02:45:22.760Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-28T02:44:33.015Z",
-    "totalTasks": 350,
+    "lastUpdated": "2026-04-28T02:45:22.761Z",
+    "totalTasks": 351,
     "completedTasks": 345,
-    "totalRevenueRUB": 640.4799999999977,
-    "totalRevenueUSD": 7.685760000000016,
+    "totalRevenueRUB": 641.6799999999978,
+    "totalRevenueUSD": 7.700160000000016,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-04-28T02:44:33.016Z"
+    "exchangeRateLastUpdated": "2026-04-28T02:45:22.762Z"
   },
   "taskTypes": [
     "VKontakte",
