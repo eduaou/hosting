@@ -4124,16 +4124,26 @@
       "isCompleted": true,
       "completedDate": "2026-05-05T17:54:34.322Z",
       "id2": "#176347961"
+    },
+    {
+      "id": "6415635",
+      "taskLink": "https://unu.im/tasks/share/feykhonh-6415635",
+      "taskType": "Avito",
+      "paymentRUB": 1.6,
+      "paymentUSD": 0.019200000000000002,
+      "dateAdded": "2026-05-05T18:58:04.136Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-05T17:54:34.324Z",
-    "totalTasks": 375,
+    "lastUpdated": "2026-05-05T18:58:04.141Z",
+    "totalTasks": 376,
     "completedTasks": 375,
-    "totalRevenueRUB": 713.0399999999978,
-    "totalRevenueUSD": 8.556480000000017,
+    "totalRevenueRUB": 714.6399999999978,
+    "totalRevenueUSD": 8.575680000000016,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-05T17:54:34.326Z"
+    "exchangeRateLastUpdated": "2026-05-05T18:58:04.143Z"
   },
   "taskTypes": [
     "VKontakte",
