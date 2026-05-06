@@ -4310,16 +4310,26 @@
       "isCompleted": true,
       "completedDate": "2026-05-06T14:25:32.353Z",
       "id2": "#176642112"
+    },
+    {
+      "id": "3093716",
+      "taskLink": "https://unu.im/tasks/share/rx08booz-3093716",
+      "taskType": "Avito",
+      "paymentRUB": 1.6,
+      "paymentUSD": 0.019200000000000002,
+      "dateAdded": "2026-05-06T14:26:32.866Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-06T14:25:32.353Z",
-    "totalTasks": 392,
+    "lastUpdated": "2026-05-06T14:26:32.881Z",
+    "totalTasks": 393,
     "completedTasks": 391,
-    "totalRevenueRUB": 753.4399999999979,
-    "totalRevenueUSD": 9.041280000000015,
+    "totalRevenueRUB": 755.0399999999979,
+    "totalRevenueUSD": 9.060480000000014,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-06T14:25:32.355Z"
+    "exchangeRateLastUpdated": "2026-05-06T14:26:32.883Z"
   },
   "taskTypes": [
     "VKontakte",
