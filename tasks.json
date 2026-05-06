@@ -4266,16 +4266,26 @@
       "isCompleted": true,
       "completedDate": "2026-05-06T12:30:05.306Z",
       "id2": "#176622832"
+    },
+    {
+      "id": "6356958",
+      "taskLink": "https://unu.im/tasks/share/gnpea73e-6356958",
+      "taskType": "Avito",
+      "paymentRUB": 2.4,
+      "paymentUSD": 0.0288,
+      "dateAdded": "2026-05-06T12:37:55.732Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-06T12:30:05.307Z",
-    "totalTasks": 388,
+    "lastUpdated": "2026-05-06T12:37:55.734Z",
+    "totalTasks": 389,
     "completedTasks": 387,
-    "totalRevenueRUB": 745.4399999999979,
-    "totalRevenueUSD": 8.945280000000015,
+    "totalRevenueRUB": 747.8399999999979,
+    "totalRevenueUSD": 8.974080000000015,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-06T12:30:05.308Z"
+    "exchangeRateLastUpdated": "2026-05-06T12:37:55.735Z"
   },
   "taskTypes": [
     "VKontakte",
