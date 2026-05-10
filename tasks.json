@@ -4841,17 +4841,6 @@
       "id2": "#177145552"
     },
     {
-      "id": "6164638",
-      "taskLink": "https://unu.im/tasks/share/ybbtkvfx-6164638",
-      "taskType": "Ozon",
-      "paymentRUB": 5.28,
-      "paymentUSD": 0.06336,
-      "dateAdded": "2026-05-09T16:05:39.790Z",
-      "isCompleted": true,
-      "completedDate": "2026-05-10T15:56:44.581Z",
-      "id2": "#177145626"
-    },
-    {
       "id": "818670",
       "taskLink": "https://unu.im/tasks/share/f1tjlewj-818670",
       "taskType": "Avito",
@@ -4872,46 +4861,16 @@
       "isCompleted": true,
       "completedDate": "2026-05-09T17:37:42.664Z",
       "id2": "#177150054"
-    },
-    {
-      "id": "6610744",
-      "taskLink": "https://unu.im/tasks/share/nuz7r8bn-6610744",
-      "taskType": "YouTube",
-      "paymentRUB": 4,
-      "paymentUSD": 0.048,
-      "dateAdded": "2026-05-10T15:59:13.679Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "3372385",
-      "taskLink": "https://unu.im/tasks/share/bsrflz4u-3372385",
-      "taskType": "Ozon",
-      "paymentRUB": 4.8,
-      "paymentUSD": 0.0576,
-      "dateAdded": "2026-05-10T16:03:48.866Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "4335328",
-      "taskLink": "https://unu.im/tasks/share/as46gj5v-4335328",
-      "taskType": "Ozon",
-      "paymentRUB": 4.8,
-      "paymentUSD": 0.0576,
-      "dateAdded": "2026-05-10T16:04:24.809Z",
-      "isCompleted": false,
-      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-10T16:04:24.815Z",
-    "totalTasks": 446,
-    "completedTasks": 443,
-    "totalRevenueRUB": 914.5599999999969,
-    "totalRevenueUSD": 10.974720000000005,
+    "lastUpdated": "2026-05-10T16:05:57.152Z",
+    "totalTasks": 442,
+    "completedTasks": 442,
+    "totalRevenueRUB": 895.679999999997,
+    "totalRevenueUSD": 10.748160000000004,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-10T16:04:24.817Z"
+    "exchangeRateLastUpdated": "2026-05-10T16:05:57.154Z"
   },
   "taskTypes": [
     "VKontakte",
