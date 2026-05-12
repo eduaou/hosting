@@ -5315,16 +5315,26 @@
       "dateAdded": "2026-05-12T18:32:18.990Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6623879",
+      "taskLink": "https://unu.im/tasks/share/lvpayob3-6623879",
+      "taskType": "YouTube",
+      "paymentRUB": 4,
+      "paymentUSD": 0.048,
+      "dateAdded": "2026-05-12T18:33:04.059Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-12T18:32:19.043Z",
-    "totalTasks": 484,
+    "lastUpdated": "2026-05-12T18:33:04.061Z",
+    "totalTasks": 485,
     "completedTasks": 476,
-    "totalRevenueRUB": 996.8799999999967,
-    "totalRevenueUSD": 11.96256,
+    "totalRevenueRUB": 1000.8799999999967,
+    "totalRevenueUSD": 12.01056,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-12T18:32:19.051Z"
+    "exchangeRateLastUpdated": "2026-05-12T18:33:04.063Z"
   },
   "taskTypes": [
     "VKontakte",
