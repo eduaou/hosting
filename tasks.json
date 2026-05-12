@@ -5199,16 +5199,26 @@
       "dateAdded": "2026-05-12T12:56:24.469Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6425006",
+      "taskLink": "https://unu.im/tasks/share/frcihtsi-6425006",
+      "taskType": "YouTube",
+      "paymentRUB": 2.08,
+      "paymentUSD": 0.024960000000000003,
+      "dateAdded": "2026-05-12T13:41:54.635Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-12T12:56:24.475Z",
-    "totalTasks": 473,
+    "lastUpdated": "2026-05-12T13:41:54.636Z",
+    "totalTasks": 474,
     "completedTasks": 470,
-    "totalRevenueRUB": 974.8799999999967,
-    "totalRevenueUSD": 11.698560000000002,
+    "totalRevenueRUB": 976.9599999999967,
+    "totalRevenueUSD": 11.723520000000002,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-12T12:56:24.478Z"
+    "exchangeRateLastUpdated": "2026-05-12T13:41:54.638Z"
   },
   "taskTypes": [
     "VKontakte",
