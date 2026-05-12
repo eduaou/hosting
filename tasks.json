@@ -5249,16 +5249,26 @@
       "dateAdded": "2026-05-12T13:51:23.736Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6503960",
+      "taskLink": "https://unu.im/tasks/share/tersz12d-6503960",
+      "taskType": "Telegram",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-05-12T13:53:29.052Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-12T13:51:23.738Z",
-    "totalTasks": 478,
+    "lastUpdated": "2026-05-12T13:53:29.053Z",
+    "totalTasks": 479,
     "completedTasks": 470,
-    "totalRevenueRUB": 982.3999999999967,
-    "totalRevenueUSD": 11.7888,
+    "totalRevenueRUB": 983.6799999999967,
+    "totalRevenueUSD": 11.80416,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-12T13:51:23.740Z"
+    "exchangeRateLastUpdated": "2026-05-12T13:53:29.054Z"
   },
   "taskTypes": [
     "VKontakte",
