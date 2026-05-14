@@ -5573,16 +5573,26 @@
       "dateAdded": "2026-05-14T23:37:40.875Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "2996618",
+      "taskLink": "https://unu.im/tasks/share/1o5wwepb-2996618",
+      "taskType": "Ozon",
+      "paymentRUB": 6.4,
+      "paymentUSD": 0.07680000000000001,
+      "dateAdded": "2026-05-14T23:39:53.236Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-14T23:37:40.882Z",
-    "totalTasks": 507,
+    "lastUpdated": "2026-05-14T23:39:53.238Z",
+    "totalTasks": 508,
     "completedTasks": 504,
-    "totalRevenueRUB": 1101.989999999996,
-    "totalRevenueUSD": 13.223879999999996,
+    "totalRevenueRUB": 1108.389999999996,
+    "totalRevenueUSD": 13.300679999999996,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-14T23:37:40.893Z"
+    "exchangeRateLastUpdated": "2026-05-14T23:39:53.240Z"
   },
   "taskTypes": [
     "VKontakte",
