@@ -5534,16 +5534,6 @@
       "id2": "#177813246"
     },
     {
-      "id": "6360322",
-      "taskLink": "https://unu.im/tasks/share/b3tzsuqk-6360322",
-      "taskType": "Ozon",
-      "paymentRUB": 4.8,
-      "paymentUSD": 0.0576,
-      "dateAdded": "2026-05-14T16:23:19.540Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "6616685",
       "taskLink": "https://unu.im/tasks/share/tx49qaj8-6616685",
       "taskType": "Ozon",
@@ -5553,16 +5543,6 @@
       "isCompleted": true,
       "completedDate": "2026-05-14T17:17:35.138Z",
       "id2": "#177953476"
-    },
-    {
-      "id": "3167199",
-      "taskLink": "https://unu.im/tasks/share/6b2tqe4y-3167199",
-      "taskType": "YouTube",
-      "paymentRUB": 8.8,
-      "paymentUSD": 0.10560000000000001,
-      "dateAdded": "2026-05-14T17:32:22.228Z",
-      "isCompleted": false,
-      "completedDate": null
     },
     {
       "id": "5883770",
@@ -5587,13 +5567,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-15T00:45:45.407Z",
-    "totalTasks": 508,
+    "lastUpdated": "2026-05-15T20:40:47.696Z",
+    "totalTasks": 506,
     "completedTasks": 505,
-    "totalRevenueRUB": 1108.389999999996,
-    "totalRevenueUSD": 13.300679999999996,
+    "totalRevenueRUB": 1094.789999999996,
+    "totalRevenueUSD": 13.137479999999995,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-15T00:45:45.409Z"
+    "exchangeRateLastUpdated": "2026-05-15T20:40:47.701Z"
   },
   "taskTypes": [
     "VKontakte",
