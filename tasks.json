@@ -5578,26 +5578,6 @@
       "id2": "#178160234"
     },
     {
-      "id": "6676079",
-      "taskLink": "https://unu.im/tasks/share/bwv6gp3w-6676079",
-      "taskType": "Other",
-      "paymentRUB": 2,
-      "paymentUSD": 0.024,
-      "dateAdded": "2026-05-18T18:45:21.527Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
-      "id": "6660943",
-      "taskLink": "https://unu.im/tasks/share/218k5rsn-6660943",
-      "taskType": "Other",
-      "paymentRUB": 1.2,
-      "paymentUSD": 0.0144,
-      "dateAdded": "2026-05-18T18:45:59.840Z",
-      "isCompleted": false,
-      "completedDate": null
-    },
-    {
       "id": "3222618",
       "taskLink": "https://unu.im/tasks/share/q3yh79jc-3222618",
       "taskType": "Avito",
@@ -5687,13 +5667,13 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-18T19:44:34.349Z",
-    "totalTasks": 517,
+    "lastUpdated": "2026-05-20T08:21:12.135Z",
+    "totalTasks": 515,
     "completedTasks": 515,
-    "totalRevenueRUB": 1122.7899999999954,
-    "totalRevenueUSD": 13.473479999999993,
+    "totalRevenueRUB": 1119.5899999999954,
+    "totalRevenueUSD": 13.435079999999994,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-18T19:44:34.350Z"
+    "exchangeRateLastUpdated": "2026-05-20T08:21:12.141Z"
   },
   "taskTypes": [
     "VKontakte",
