@@ -5969,16 +5969,26 @@
       "dateAdded": "2026-05-24T19:16:56.184Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6673254",
+      "taskLink": "https://unu.im/tasks/share/x9nmszjs-6673254",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-05-24T19:18:33.904Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-24T19:16:56.184Z",
-    "totalTasks": 543,
+    "lastUpdated": "2026-05-24T19:18:33.905Z",
+    "totalTasks": 544,
     "completedTasks": 540,
-    "totalRevenueRUB": 1176.2299999999939,
-    "totalRevenueUSD": 14.114759999999984,
+    "totalRevenueRUB": 1177.5099999999939,
+    "totalRevenueUSD": 14.130119999999984,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-24T19:16:56.186Z"
+    "exchangeRateLastUpdated": "2026-05-24T19:18:33.907Z"
   },
   "taskTypes": [
     "VKontakte",
