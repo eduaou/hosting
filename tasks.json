@@ -6092,16 +6092,26 @@
       "dateAdded": "2026-05-26T03:06:06.600Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "2567876",
+      "taskLink": "https://unu.im/tasks/share/9ejymh57-2567876",
+      "taskType": "Avito",
+      "paymentRUB": 1.6,
+      "paymentUSD": 0.019200000000000002,
+      "dateAdded": "2026-05-26T03:07:05.207Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-26T03:06:06.605Z",
-    "totalTasks": 554,
+    "lastUpdated": "2026-05-26T03:07:05.207Z",
+    "totalTasks": 555,
     "completedTasks": 553,
-    "totalRevenueRUB": 1204.7099999999934,
-    "totalRevenueUSD": 14.456519999999983,
+    "totalRevenueRUB": 1206.3099999999934,
+    "totalRevenueUSD": 14.475719999999983,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-26T03:06:06.610Z"
+    "exchangeRateLastUpdated": "2026-05-26T03:07:05.208Z"
   },
   "taskTypes": [
     "VKontakte",
