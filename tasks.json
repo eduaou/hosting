@@ -6195,16 +6195,26 @@
       "dateAdded": "2026-05-27T03:36:15.520Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6601777",
+      "taskLink": "https://unu.im/tasks/share/rymebwgv-6601777",
+      "taskType": "VKontakte",
+      "paymentRUB": 1.28,
+      "paymentUSD": 0.01536,
+      "dateAdded": "2026-05-27T03:37:09.961Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-05-27T03:36:15.520Z",
-    "totalTasks": 564,
+    "lastUpdated": "2026-05-27T03:37:09.962Z",
+    "totalTasks": 565,
     "completedTasks": 556,
-    "totalRevenueRUB": 1235.189999999993,
-    "totalRevenueUSD": 14.822279999999985,
+    "totalRevenueRUB": 1236.469999999993,
+    "totalRevenueUSD": 14.837639999999984,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-05-27T03:36:15.522Z"
+    "exchangeRateLastUpdated": "2026-05-27T03:37:09.963Z"
   },
   "taskTypes": [
     "VKontakte",
