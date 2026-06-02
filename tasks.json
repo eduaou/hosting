@@ -6840,16 +6840,26 @@
       "dateAdded": "2026-06-02T05:53:57.590Z",
       "isCompleted": false,
       "completedDate": null
+    },
+    {
+      "id": "6753627",
+      "taskLink": "https://unu.im/tasks/share/pyaxoclv-6753627",
+      "taskType": "Telegram",
+      "paymentRUB": 3.04,
+      "paymentUSD": 0.03648,
+      "dateAdded": "2026-06-02T05:54:34.189Z",
+      "isCompleted": false,
+      "completedDate": null
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-06-02T05:53:57.591Z",
-    "totalTasks": 622,
+    "lastUpdated": "2026-06-02T05:54:34.189Z",
+    "totalTasks": 623,
     "completedTasks": 621,
-    "totalRevenueRUB": 1399.6699999999912,
-    "totalRevenueUSD": 16.79603999999997,
+    "totalRevenueRUB": 1402.7099999999912,
+    "totalRevenueUSD": 16.83251999999997,
     "exchangeRate": 0.012,
-    "exchangeRateLastUpdated": "2026-06-02T05:53:57.593Z"
+    "exchangeRateLastUpdated": "2026-06-02T05:54:34.198Z"
   },
   "taskTypes": [
     "VKontakte",
